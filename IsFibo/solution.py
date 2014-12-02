@@ -1,4 +1,4 @@
-mport math
+import math
 for line in range(int(raw_input())):
     x = int(raw_input())
     plus = math.sqrt(5* x**2 +4)
