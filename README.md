@@ -22,6 +22,7 @@ Algorithms:
 
 Bash:
 ----
+### Bash Tutorials
 - [Arithmetic Operations](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations)
 - [A personalized echo](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)
 - [Comparing Numbers](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)
@@ -31,3 +32,6 @@ Bash:
 - [Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)
 - [More on conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals)
 - [The world of numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)
+
+### Intro to Text Processing Utilities
+- [The cut command #1](https://www.hackerrank.com/challenges/text-processing-cut-1)
