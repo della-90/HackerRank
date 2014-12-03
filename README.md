@@ -22,8 +22,12 @@ Algorithms:
 
 Bash:
 ----
+- [Arithmetic Operations](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations)
 - [A personalized echo](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)
+- [Comparing Numbers](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)
+- [Compute the Average](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---compute-the-average)
 - [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals)
 - [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping)
 - [Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)
+- [More on conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals)
 - [The world of numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)
