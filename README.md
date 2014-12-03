@@ -7,6 +7,7 @@ Currently solved challenges:
 - [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)
 - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Angry children](https://www.hackerrank.com/challenges/angry-children)
+- [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)
 - [Filling jars](https://www.hackerrank.com/challenges/filling-jars)
 - [Find digits](https://www.hackerrank.com/challenges/find-digits)
 - [Game of thrones 1](https://www.hackerrank.com/challenges/game-of-thrones)
