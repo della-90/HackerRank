@@ -43,3 +43,6 @@ Bash:
 - [The cut command #7](https://www.hackerrank.com/challenges/text-processing-cut-7)
 - [The cut command #8](https://www.hackerrank.com/challenges/text-processing-cut-8)
 - [The cut command #9](https://www.hackerrank.com/challenges/text-processing-cut-9)
+- [The head of a text file #1](https://www.hackerrank.com/challenges/text-processing-head-1)
+- [The head of a text file #2](https://www.hackerrank.com/challenges/text-processing-head-2)
+- [The middle of a text file](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file)
