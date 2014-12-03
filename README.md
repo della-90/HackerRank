@@ -11,6 +11,7 @@ Currently solved challenges:
 - [Filling jars](https://www.hackerrank.com/challenges/filling-jars)
 - [Find digits](https://www.hackerrank.com/challenges/find-digits)
 - [Game of thrones 1](https://www.hackerrank.com/challenges/game-of-thrones)
+- [Halloween party](https://www.hackerrank.com/challenges/halloween-party)
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
 - [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
