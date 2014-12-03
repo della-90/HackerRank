@@ -13,6 +13,7 @@ Currently solved challenges:
 - [Game of thrones 1](https://www.hackerrank.com/challenges/game-of-thrones)
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
+- [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
 - [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
 - [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
 
