@@ -46,3 +46,7 @@ Bash:
 - [The head of a text file #1](https://www.hackerrank.com/challenges/text-processing-head-1)
 - [The head of a text file #2](https://www.hackerrank.com/challenges/text-processing-head-2)
 - [The middle of a text file](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file)
+- [The tail of a text file #1](https://www.hackerrank.com/challenges/text-processing-tail-1)
+- [The tail of a text file #2](https://www.hackerrank.com/challenges/text-processing-tail-2)
+- [The 'Tr' command #1](https://www.hackerrank.com/challenges/text-processing-tr-1)
+- [The 'Tr' command #2](https://www.hackerrank.com/challenges/text-processing-tr-2)
