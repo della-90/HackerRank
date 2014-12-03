@@ -50,3 +50,4 @@ Bash:
 - [The tail of a text file #2](https://www.hackerrank.com/challenges/text-processing-tail-2)
 - [The 'Tr' command #1](https://www.hackerrank.com/challenges/text-processing-tr-1)
 - [The 'Tr' command #2](https://www.hackerrank.com/challenges/text-processing-tr-2)
+- [The 'Tr' command #3](https://www.hackerrank.com/challenges/text-processing-tr-3)
