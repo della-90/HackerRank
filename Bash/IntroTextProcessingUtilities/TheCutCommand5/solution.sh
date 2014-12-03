@@ -1,0 +1,1 @@
+cut --fields -3

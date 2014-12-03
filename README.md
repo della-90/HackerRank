@@ -35,3 +35,11 @@ Bash:
 
 ### Intro to Text Processing Utilities
 - [The cut command #1](https://www.hackerrank.com/challenges/text-processing-cut-1)
+- [The cut command #2](https://www.hackerrank.com/challenges/text-processing-cut-2)
+- [The cut command #3](https://www.hackerrank.com/challenges/text-processing-cut-3)
+- [The cut command #4](https://www.hackerrank.com/challenges/text-processing-cut-4)
+- [The cut command #5](https://www.hackerrank.com/challenges/text-processing-cut-5)
+- [The cut command #6](https://www.hackerrank.com/challenges/text-processing-cut-6)
+- [The cut command #7](https://www.hackerrank.com/challenges/text-processing-cut-7)
+- [The cut command #8](https://www.hackerrank.com/challenges/text-processing-cut-8)
+- [The cut command #9](https://www.hackerrank.com/challenges/text-processing-cut-9)
