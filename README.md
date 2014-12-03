@@ -23,6 +23,7 @@ Algorithms:
 Bash:
 ----
 - [A personalized echo](https://www.hackerrank.com/challenges://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)
+- [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals)
 - [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping)
 - [Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)
 - [The world of numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)
