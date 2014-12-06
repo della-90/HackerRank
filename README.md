@@ -10,6 +10,7 @@ Algorithms:
 - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Angry children](https://www.hackerrank.com/challenges/angry-children)
 - [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)
+- [Counter Game](https://www.hackerrank.com/challenges/counter-game)
 - [Filling jars](https://www.hackerrank.com/challenges/filling-jars)
 - [Find digits](https://www.hackerrank.com/challenges/find-digits)
 - [Game of thrones 1](https://www.hackerrank.com/challenges/game-of-thrones)
