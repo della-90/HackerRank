@@ -41,6 +41,7 @@ Miscellaneous:
 -------------
 ### Regex
 - [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)
+- [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language)
 - [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
 - [Split Phone Numbers](https://www.hackerrank.com/challenges/hackerrank-tweets)
