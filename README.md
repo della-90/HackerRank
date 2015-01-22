@@ -43,6 +43,7 @@ Miscellaneous:
 - [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)
 - [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language)
 - [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
+- [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
 - [Split Phone Numbers](https://www.hackerrank.com/challenges/hackerrank-tweets)
 - [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)
