@@ -6,6 +6,8 @@ Some of the solutions of the challenges on http://www.hackerrank.com
 Currently solved challenges:
 Algorithms:
 ----------
+
+### Warmup
 - [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)
 - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Angry children](https://www.hackerrank.com/challenges/angry-children)
@@ -20,6 +22,31 @@ Algorithms:
 - [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
 - [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
 - [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
+
+### Implementation
+- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
+- [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)
+- [Service Lane](https://www.hackerrank.com/challenges/service-lane)
+- [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)
+
+### Arrays and sorting
+- [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)
+- [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort1)
+- [Correctness and the Loop invariant](https://www.hackerrank.com/challenges/correctness-invariant)
+- [Running time of Algorithms](https://www.hackerrank.com/challenges/runningtime)
+- [Quick Sort 1 - Partition](https://www.hackerrank.com/challenges/runningtime)
+
+
+Miscellaneous:
+-------------
+### Regex
+- [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)
+- [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
+- [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
+- [Split Phone Numbers](https://www.hackerrank.com/challenges/hackerrank-tweets)
+- [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)
+- [Detecting Valid Latitude Longitude Pairs](https://www.hackerrank.com/challenges/hackerrank-tweets)
+- [Valid PAN Numbers](https://www.hackerrank.com/challenges/valid-pan-format)
 
 Bash:
 ----
