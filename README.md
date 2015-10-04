@@ -88,4 +88,4 @@ Java:
 
 # Data Structures:
 - [Java 1D Array (Easy)](https://www.hackerrank.com/challenges/java-1d-array-easy)
-- [Java 1D Array (Hard)](https://www.hackerrank.com/challenges/java-1d-array)
+- [Java 1D Array (Hard)](https://www.hackerrank.com/challenges/java-1d-array) 2 solutions provided
