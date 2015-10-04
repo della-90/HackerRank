@@ -4,6 +4,7 @@ HackerRank
 Some of the solutions of the challenges on http://www.hackerrank.com
 
 Currently solved challenges:
+
 Algorithms:
 ----------
 
@@ -81,3 +82,10 @@ Bash:
 - [The 'Tr' command #1](https://www.hackerrank.com/challenges/text-processing-tr-1)
 - [The 'Tr' command #2](https://www.hackerrank.com/challenges/text-processing-tr-2)
 - [The 'Tr' command #3](https://www.hackerrank.com/challenges/text-processing-tr-3)
+
+Java:
+----
+
+# Data Structures:
+- [Java 1D Array (Easy)](https://www.hackerrank.com/challenges/java-1d-array-easy)
+- [Java 1D Array (Hard)](https://www.hackerrank.com/challenges/java-1d-array)
