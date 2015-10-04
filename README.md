@@ -91,3 +91,4 @@ Java:
 - [Java 1D Array (Hard)](https://www.hackerrank.com/challenges/java-1d-array) 2 solutions provided
 - [Java Stack](https://www.hackerrank.com/challenges/java-stack)
 - [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)
+- [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)
