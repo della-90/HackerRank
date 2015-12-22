@@ -94,6 +94,13 @@ Java:
 - [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)
 - [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)
 
+Regex:
+-----
+
+### Applications:
+- [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/)
+- [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name)
+
 Security:
 --------
 
