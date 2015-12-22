@@ -39,9 +39,15 @@ Algorithms:
 - [Quick Sort 1 - Partition](https://www.hackerrank.com/challenges/runningtime)
 
 
-Miscellaneous:
--------------
-### Regex
+Regex:
+-----
+
+### Applications:
+- [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/)
+- [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name)
+
+### ???:
+
 - [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)
 - [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language)
 - [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
@@ -94,12 +100,6 @@ Java:
 - [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)
 - [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)
 
-Regex:
------
-
-### Applications:
-- [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/)
-- [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name)
 
 Security:
 --------
