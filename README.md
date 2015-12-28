@@ -9,26 +9,46 @@ Algorithms:
 ----------
 
 ### Warmup
+- [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
+- [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
+- [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)
+- [Staircase](https://www.hackerrank.com/challenges/staircase)
+- [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
+
+### Implementation
+- [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)
+- [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
+- [Find digits](https://www.hackerrank.com/challenges/find-digits)
+- [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
+- [Service Lane](https://www.hackerrank.com/challenges/service-lane)
+- [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)
+- [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)
+- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
+- [Library Fine](https://www.hackerrank.com/challenges/library-fine)
 - [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)
+- [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)
+- [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)
+- [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)
+- [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)
+- [Encryption](https://www.hackerrank.com/challenges/encryption)
+- [[Algo] Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)
+
+### ???
 - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Angry children](https://www.hackerrank.com/challenges/angry-children)
 - [Changing Bits](https://www.hackerrank.com/challenges/changing-bits)
-- [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)
 - [Counter Game](https://www.hackerrank.com/challenges/counter-game)
 - [Filling jars](https://www.hackerrank.com/challenges/filling-jars)
-- [Find digits](https://www.hackerrank.com/challenges/find-digits)
 - [Game of thrones 1](https://www.hackerrank.com/challenges/game-of-thrones)
 - [Halloween party](https://www.hackerrank.com/challenges/halloween-party)
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
-- [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
 - [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
-- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
 
 ### Implementation
-- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
-- [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)
-- [Service Lane](https://www.hackerrank.com/challenges/service-lane)
 - [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)
 
 ### Arrays and sorting
