@@ -1,0 +1,16 @@
+#!/bin/python3
+
+import sys
+
+
+n = int(input().strip())
+calories = list(map(int, input().strip().split(' ')))
+
+# sort calories in descending order to minimize miles
+calories.sort(reverse=True)
+
+total = 0
+for count, cal in enumerate(calories):
+    total += cal * (2**count)
+    
+print(total)
